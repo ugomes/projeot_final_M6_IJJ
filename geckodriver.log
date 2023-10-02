@@ -1,0 +1,488 @@
+1696024347862	geckodriver	INFO	Listening on 127.0.0.1:62133
+1696024350724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62134" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofile3kE2Yv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696024351203	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696024351303	Marionette	INFO	Listening on port 62147
+WebDriver BiDi listening on ws://127.0.0.1:62134
+Read port: 62147
+1696024351492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62134/devtools/browser/049cd07d-7930-4fd6-a7cd-6fbac1c366f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696024367827	Marionette	INFO	Stopped listening on port 62147
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1696024367857	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:215
+deleteSession()@WebDriverBiDi.sys.mjs:140
+stop()@WebDriverBiDi.sys.mjs:228
+1696024463643	geckodriver	INFO	Listening on 127.0.0.1:62272
+1696024466558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileo0HYSP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696024466997	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696024467082	Marionette	INFO	Listening on port 62286
+WebDriver BiDi listening on ws://127.0.0.1:62273
+Read port: 62286
+1696024467238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62273/devtools/browser/06a22692-ff21-4995-abd1-61cf03cc9609
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696025032376	Marionette	INFO	Stopped listening on port 62286
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62454" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofiledc2Xfy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696024675094	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696024675179	Marionette	INFO	Listening on port 62463
+WebDriver BiDi listening on ws://127.0.0.1:62454
+Read port: 62463
+1696024675329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62454/devtools/browser/795ddeb8-e6b9-48ef-b90d-e17e609bc170
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696024681045	Marionette	INFO	Stopped listening on port 62463
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+1696024729957	geckodriver	INFO	Listening on 127.0.0.1:62541
+1696024732864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62542" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofiledXddug"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696024733299	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696024733394	Marionette	INFO	Listening on port 62554
+WebDriver BiDi listening on ws://127.0.0.1:62542
+Read port: 62554
+1696024733506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62542/devtools/browser/83eb5fec-365f-435e-a08c-231e8a0fca48
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696024742141	Marionette	INFO	Stopped listening on port 62554
+Dynamically enable window occlusion 1
+1696024799373	geckodriver	INFO	Listening on 127.0.0.1:62642
+1696024802294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62643" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofiledO7ktW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696024802721	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696024802810	Marionette	INFO	Listening on port 62660
+WebDriver BiDi listening on ws://127.0.0.1:62643
+Read port: 62660
+1696024802961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62643/devtools/browser/3b396fb9-2257-4b77-895b-e9289678495d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696024813247	Marionette	INFO	Stopped listening on port 62660
+Dynamically enable window occlusion 1
+1696024868001	geckodriver	INFO	Listening on 127.0.0.1:62739
+1696024870893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62740" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileoDNzdW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696024871343	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696024871429	Marionette	INFO	Listening on port 62751
+WebDriver BiDi listening on ws://127.0.0.1:62740
+Read port: 62751
+1696024871540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62740/devtools/browser/406bea11-2340-4eca-99f0-0cb64aff6cfa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696024883400	Marionette	INFO	Stopped listening on port 62751
+JavaScript warning: https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js, line 1049: Script terminated by timeout at:
+Yt@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:1889
+S@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:4125
+k@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:3937
+moveToIdx@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:14405
+JI/</n.next@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:14140
+i/n<@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1060:132
+
+Dynamically enable window occlusion 1
+1696024927538	geckodriver	INFO	Listening on 127.0.0.1:62828
+1696024930439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileAfuyZk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696024930874	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696024930959	Marionette	INFO	Listening on port 62838
+WebDriver BiDi listening on ws://127.0.0.1:62829
+Read port: 62838
+1696024931098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62829/devtools/browser/51128403-a6eb-4dac-9ee4-a3bcefc8c56c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696024942962	Marionette	INFO	Stopped listening on port 62838
+JavaScript warning: https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js, line 1049: Script terminated by timeout at:
+Yt@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:1889
+S@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:4125
+k@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:3937
+moveToIdx@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:14405
+JI/</n.next@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:14140
+i/n<@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1060:132
+
+Dynamically enable window occlusion 1
+1696025041395	geckodriver	INFO	Listening on 127.0.0.1:62943
+1696025044289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62944" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilepNKSQe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696025044656	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696025044742	Marionette	INFO	Listening on port 62954
+WebDriver BiDi listening on ws://127.0.0.1:62944
+Read port: 62954
+1696025044894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62944/devtools/browser/061265e5-d4b5-405a-bc15-dee5bd767576
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696025059971	Marionette	INFO	Stopped listening on port 62954
+JavaScript warning: https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js, line 1049: Script terminated by timeout at:
+a@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:2694
+
+Dynamically enable window occlusion 1
+1696025102817	geckodriver	INFO	Listening on 127.0.0.1:63033
+1696025105711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63034" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileKv3KdW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696025106157	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696025106243	Marionette	INFO	Listening on port 63045
+WebDriver BiDi listening on ws://127.0.0.1:63034
+Read port: 63045
+1696025106351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63034/devtools/browser/8b0dc1ba-b160-4f88-b808-c1a4ab616549
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696025121205	Marionette	INFO	Stopped listening on port 63045
+JavaScript warning: https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js, line 1049: Script terminated by timeout at:
+a@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:2694
+
+Dynamically enable window occlusion 1
+1696025248335	geckodriver	INFO	Listening on 127.0.0.1:63165
+1696025251234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63166" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilefPottd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696025251600	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696025251690	Marionette	INFO	Listening on port 63177
+WebDriver BiDi listening on ws://127.0.0.1:63166
+Read port: 63177
+1696025251842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63166/devtools/browser/e2fe6c5f-700c-4349-9f81-c7dd965d22e6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696025266378	Marionette	INFO	Stopped listening on port 63177
+JavaScript warning: https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js, line 1049: Script terminated by timeout at:
+a@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:2694
+
+Dynamically enable window occlusion 1
+1696025498256	geckodriver	INFO	Listening on 127.0.0.1:63387
+1696025501162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63388" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileXuYXdX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696025501596	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696025501683	Marionette	INFO	Listening on port 63398
+WebDriver BiDi listening on ws://127.0.0.1:63388
+Read port: 63398
+1696025501829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63388/devtools/browser/9ea2c012-e26a-47ad-80fc-2815730df8b4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696025512939	Marionette	INFO	Stopped listening on port 63398
+JavaScript warning: https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js, line 37: Script terminated by timeout at:
+Bp@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:37:17677
+
+Dynamically enable window occlusion 1
+1696025540252	geckodriver	INFO	Listening on 127.0.0.1:63465
+1696025543148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63466" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilepgxstR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696025543536	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696025543624	Marionette	INFO	Listening on port 63476
+WebDriver BiDi listening on ws://127.0.0.1:63466
+Read port: 63476
+1696025543773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63466/devtools/browser/c6a006cb-eb43-4cb6-976c-c41665b54e21
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696025558165	Marionette	INFO	Stopped listening on port 63476
+JavaScript warning: https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js, line 1049: Script terminated by timeout at:
+a@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:2694
+
+Dynamically enable window occlusion 1
+1696025668121	geckodriver	INFO	Listening on 127.0.0.1:63598
+1696025671044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofile0RAXg9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696025671484	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696025671571	Marionette	INFO	Listening on port 63612
+WebDriver BiDi listening on ws://127.0.0.1:63599
+Read port: 63612
+1696025671714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63599/devtools/browser/94eaaf36-dbd6-4be4-8c5e-6e07afddf0f4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696025686351	Marionette	INFO	Stopped listening on port 63612
+JavaScript warning: https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js, line 1049: Script terminated by timeout at:
+a@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:2694
+
+Dynamically enable window occlusion 1
+1696026284264	geckodriver	INFO	Listening on 127.0.0.1:64007
+1696026287147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64008" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilesPIX97"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696026287614	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696026287704	Marionette	INFO	Listening on port 64017
+WebDriver BiDi listening on ws://127.0.0.1:64008
+Read port: 64017
+1696026287872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64008/devtools/browser/7d327c86-786c-4076-b62f-9b546866defa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696026304377	Marionette	INFO	Stopped listening on port 64017
+JavaScript warning: https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js, line 1049: Script terminated by timeout at:
+a@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:2694
+
+Dynamically enable window occlusion 1
+1696026466494	geckodriver	INFO	Listening on 127.0.0.1:64180
+1696026469381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileycyErn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696026469764	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696026469849	Marionette	INFO	Listening on port 64190
+WebDriver BiDi listening on ws://127.0.0.1:64181
+Read port: 64190
+1696026470001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64181/devtools/browser/f9190c69-e488-42ad-84d5-c037a2ed25d7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696026484326	Marionette	INFO	Stopped listening on port 64190
+JavaScript warning: https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js, line 1049: Script terminated by timeout at:
+a@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:2694
+
+Dynamically enable window occlusion 1
+1696028295945	geckodriver	INFO	Listening on 127.0.0.1:64905
+1696028298831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64906" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofile0vPoHN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696028299272	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696028299368	Marionette	INFO	Listening on port 64914
+WebDriver BiDi listening on ws://127.0.0.1:64906
+Read port: 64914
+1696028299517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64906/devtools/browser/34608f17-b35c-4bca-9dda-be508139007c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696028316373	Marionette	INFO	Stopped listening on port 64914
+JavaScript warning: https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js, line 1049: Script terminated by timeout at:
+a@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:2694
+
+Dynamically enable window occlusion 1
+1696029995092	geckodriver	INFO	Listening on 127.0.0.1:65145
+1696029997977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65146" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileLhUJxc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696029998416	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696029998501	Marionette	INFO	Listening on port 65153
+WebDriver BiDi listening on ws://127.0.0.1:65146
+Read port: 65153
+1696029998639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65146/devtools/browser/7104b4e4-4c1f-47e6-9e0f-9b9ffbdd524d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696030014757	Marionette	INFO	Stopped listening on port 65153
+JavaScript warning: https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js, line 1049: Script terminated by timeout at:
+a@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:2694
+
+Dynamically enable window occlusion 1
+1696032431620	geckodriver	INFO	Listening on 127.0.0.1:49852
+1696032434516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileOiGxSK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696032434934	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696032435020	Marionette	INFO	Listening on port 49863
+WebDriver BiDi listening on ws://127.0.0.1:49853
+Read port: 49863
+1696032435171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49853/devtools/browser/5e1e90bc-ddd7-4938-8292-d30d854c11d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696032451817	Marionette	INFO	Stopped listening on port 49863
+JavaScript warning: https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js, line 1049: Script terminated by timeout at:
+a@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:2694
+
+Dynamically enable window occlusion 1
+1696038236444	geckodriver	INFO	Listening on 127.0.0.1:51970
+1696038239314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileEWfrv1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696038239784	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696038239872	Marionette	INFO	Listening on port 51982
+WebDriver BiDi listening on ws://127.0.0.1:51971
+Read port: 51982
+1696038240030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51971/devtools/browser/d7c86639-a01a-4f5d-927b-b6fbf2c23779
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696038254658	Marionette	INFO	Stopped listening on port 51982
+JavaScript warning: https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js, line 1049: Script terminated by timeout at:
+a@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:2694
+
+Dynamically enable window occlusion 1
+1696038272657	geckodriver	INFO	Listening on 127.0.0.1:52034
+1696038275522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileSOBY83"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696038275979	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696038276068	Marionette	INFO	Listening on port 52042
+WebDriver BiDi listening on ws://127.0.0.1:52035
+Read port: 52042
+1696038276175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52035/devtools/browser/33c01c3a-16ea-44a5-b579-4ca1cce6aa7c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696038291278	Marionette	INFO	Stopped listening on port 52042
+JavaScript warning: https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js, line 1049: Script terminated by timeout at:
+a@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:2694
+
+Dynamically enable window occlusion 1
+1696039057637	geckodriver	INFO	Listening on 127.0.0.1:52520
+1696039060542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofile9cgHq4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696039060969	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696039061055	Marionette	INFO	Listening on port 52530
+WebDriver BiDi listening on ws://127.0.0.1:52521
+Read port: 52530
+1696039061197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52521/devtools/browser/89382d3b-611d-4235-b9c4-6131ec8da7aa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696039072790	Marionette	INFO	Stopped listening on port 52530
+JavaScript warning: https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js, line 1049: Script terminated by timeout at:
+l@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:2932
+a@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:2703
+
+Dynamically enable window occlusion 1
+1696039110272	geckodriver	INFO	Listening on 127.0.0.1:52614
+1696039113166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilexQxcuD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696039113642	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696039113733	Marionette	INFO	Listening on port 52624
+WebDriver BiDi listening on ws://127.0.0.1:52615
+Read port: 52624
+1696039113882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52615/devtools/browser/8e1ccbf5-c6a0-4458-b9e1-7591490c6615
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696039128288	Marionette	INFO	Stopped listening on port 52624
+Dynamically enable window occlusion 1
+1696039329777	geckodriver	INFO	Listening on 127.0.0.1:52809
+1696039332662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52810" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilee4uydy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696039333107	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696039333196	Marionette	INFO	Listening on port 52819
+WebDriver BiDi listening on ws://127.0.0.1:52810
+Read port: 52819
+1696039333313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52810/devtools/browser/4076cbc4-fd2f-4042-8bfe-2fd214a2d389
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696039346671	Marionette	INFO	Stopped listening on port 52819
+Dynamically enable window occlusion 1
+1696039761277	geckodriver	INFO	Listening on 127.0.0.1:53129
+1696039764132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53130" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofile94XU4h"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696039764394	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696039764487	Marionette	INFO	Listening on port 53140
+WebDriver BiDi listening on ws://127.0.0.1:53130
+Read port: 53140
+1696039764824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53130/devtools/browser/878fdb55-c4b2-46a1-a712-c80fd4fa5451
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696039780388	Marionette	INFO	Stopped listening on port 53140
+Dynamically enable window occlusion 1
+1696040129108	geckodriver	INFO	Listening on 127.0.0.1:53387
+1696040131964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53388" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofile1b2s7F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696040132365	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696040132460	Marionette	INFO	Listening on port 53400
+WebDriver BiDi listening on ws://127.0.0.1:53388
+Read port: 53400
+1696040132635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53388/devtools/browser/d27aafad-ad46-46dc-8c78-8e190ba5ee9c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696040145835	Marionette	INFO	Stopped listening on port 53400
+Dynamically enable window occlusion 1
+1696117085434	geckodriver	INFO	Listening on 127.0.0.1:55302
+1696117088418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilej5AwX0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696117089209	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696117089312	Marionette	INFO	Listening on port 55320
+Read port: 55320
+WebDriver BiDi listening on ws://127.0.0.1:55303
+1696117089374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55303/devtools/browser/1c957881-5114-4257-87fe-444fb51d242e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696117105391	Marionette	INFO	Stopped listening on port 55320
+Dynamically enable window occlusion 1
+1696117293850	geckodriver	INFO	Listening on 127.0.0.1:64746
+1696117296766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64747" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofile8KmkQg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696117297161	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696117297250	Marionette	INFO	Listening on port 64754
+WebDriver BiDi listening on ws://127.0.0.1:64747
+Read port: 64754
+1696117297410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64747/devtools/browser/de403cbb-428c-4adc-9f18-c0f7b2fd40a8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696117310795	Marionette	INFO	Stopped listening on port 64754
+JavaScript warning: https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js, line 1049: Script terminated by timeout at:
+a@https://projetofinal.jogajuntoinstituto.org/assets/index-42b04b01.js:1049:2694
+
+Dynamically enable window occlusion 1
+1696117346656	geckodriver	INFO	Listening on 127.0.0.1:64805
+1696117349584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64806" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileGFLPaM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696117350098	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696117350209	Marionette	INFO	Listening on port 64813
+WebDriver BiDi listening on ws://127.0.0.1:64806
+Read port: 64813
+1696117350390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64806/devtools/browser/c6d4e25a-9e17-419d-beba-ce69b8992847
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://projetofinal.jogajuntoinstituto.org."
+1696117363638	Marionette	INFO	Stopped listening on port 64813
+Dynamically enable window occlusion 1
